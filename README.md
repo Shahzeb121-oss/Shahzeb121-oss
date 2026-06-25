@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8250df,100:58a6ff&height=180&section=header&animation=fadeIn&fontAlignY=0" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Muhammad+Shahzaib;BS+AI+Student;ML+%7C+NLP+%7C+Data+Science;Building+real-world+AI+projects&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=24&theme=dark">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Muhammad+Shahzaib;BS+AI+Student;ML+%7C+NLP+%7C+Data+Science;Building+real-world+AI+projects&font=Fira+Code&center=true&width=500&height=50&color=0969DA&vCenter=true&size=24" alt="Typing animation">
@@ -29,9 +31,16 @@ Collaborating on open-source AI/ML/Data Science projects, and connecting with pe
 
 ### 🛠️ Core Stack
 
-**Languages:** Python, C++, Java, SQL
-**ML / Data:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
-**Tools:** Git, MySQL, OpenCV
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,mysql,git,opencv,tensorflow,pytorch,sklearn,vscode" alt="Tech Stack" />
+
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
 
 ---
 
@@ -39,9 +48,27 @@ Collaborating on open-source AI/ML/Data Science projects, and connecting with pe
 
 > Pin these three on your profile too — a recruiter checks pinned repos before anything else on this page.
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=FaceGuard-Pro&hide_border=false&border_color=a371f7&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=FaceGuard-Pro&hide_border=false&border_color=8250df&bg_color=ffffff&title_color=8250df&icon_color=0969da&text_color=24292f" alt="FaceGuard-Pro">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=spam-filter-app&hide_border=false&border_color=a371f7&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=spam-filter-app&hide_border=false&border_color=8250df&bg_color=ffffff&title_color=8250df&icon_color=0969da&text_color=24292f" alt="Spam Filter App">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=first-aid-ai&hide_border=false&border_color=a371f7&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=first-aid-ai&hide_border=false&border_color=8250df&bg_color=ffffff&title_color=8250df&icon_color=0969da&text_color=24292f" alt="First Aid AI">
+</picture>
+
+</div>
+
 - **[FaceGuard-Pro](https://github.com/Shahzeb121-oss/FaceGuard-Pro)** — Real-time CNN-based face detection using OpenCV DNN (ResNet-10 SSD), supporting webcam, image, and video input, with a CustomTkinter desktop UI.
 - **[Spam Filter App](https://github.com/Shahzeb121-oss/spam-filter-app)** — Email spam & phishing detector combining a Naive Bayes + TF-IDF classifier with rule-based heuristics, served via a Flask API with a live triage dashboard.
 - **[First Aid AI](https://github.com/Shahzeb121-oss/first-aid-ai)** — AI-powered first aid assistant that gives quick emergency guidance and basic medical support information.
+
 
 ---
 
@@ -50,14 +77,30 @@ Collaborating on open-source AI/ML/Data Science projects, and connecting with pe
 ### 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shahzeb121-oss&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzeb121-oss&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shahzeb121-oss&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9&ring_color=a371f7">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzeb121-oss&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=8250df&icon_color=0969da&text_color=24292f&ring_color=8250df" alt="GitHub Stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb121-oss&hide_border=true&background=0D1117&ring=A371F7&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb121-oss&hide_border=true&background=FFFFFF&ring=8250DF&fire=CF222E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="GitHub Streak">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb121-oss&layout=compact&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb121-oss&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb121-oss&layout=compact&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb121-oss&layout=compact&hide_border=true&bg_color=ffffff&title_color=8250df&text_color=24292f" alt="Top Languages">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shahzeb121-oss&theme=react-dark&hide_border=true&bg_color=0d1117&color=a371f7&line=a371f7&point=58a6ff">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzeb121-oss&theme=minimal&hide_border=true&bg_color=ffffff&color=8250df&line=8250df&point=0969da" alt="Activity Graph">
+</picture>
+
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shahzeb121-oss&label=PROFILE+VIEWS&color=a371f7&style=for-the-badge&abbreviated=true)
+![Followers](https://img.shields.io/github/followers/shahzeb121-oss?label=FOLLOWERS&style=for-the-badge&color=58a6ff&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/dynamic/json?label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshahzeb121-oss&style=for-the-badge&color=ff7b72&labelColor=0d1117)
 
 </div>
 
@@ -65,6 +108,9 @@ Collaborating on open-source AI/ML/Data Science projects, and connecting with pe
 
 <div align="center">
 
-📫 **ms8773964@gmail.com** &nbsp;|&nbsp; All projects: [github.com/Shahzeb121-oss](https://github.com/Shahzeb121-oss)
+[![Email](https://img.shields.io/badge/ms8773964%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ms8773964@gmail.com)
+[![All Projects](https://img.shields.io/badge/All%20Projects-View%20on%20GitHub-a371f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Shahzeb121-oss)
+
+</div>
 
 </div>
