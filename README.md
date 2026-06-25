@@ -46,8 +46,6 @@ Collaborating on open-source AI/ML/Data Science projects, and connecting with pe
 
 ### 📌 Featured Projects
 
-> Pin these three on your profile too — a recruiter checks pinned repos before anything else on this page.
-
 <div align="center">
 
 <picture>
