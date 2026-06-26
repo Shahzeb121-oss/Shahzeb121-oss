@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Muhammad+Shahzaib;BS+AI+Student;ML+%7C+NLP+%7C+Data+Science;Building+real-world+AI+projects&font=Fira+Code&center=true&width=500&height=50&color=0969DA&vCenter=true&size=24" alt="Typing animation">
 </picture>
 
-### BS Artificial Intelligence student building real ML, NLP, and Data Science projects
+### Exploring Machine Learning, Data Science, and NLP to create practical, impactful solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-shahzaib-96470b3a1/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/shazi123)
@@ -19,13 +19,13 @@
 ---
 
 ### 🔭 What I'm working on
-Exploring practical applications of Machine Learning, Data Science, and NLP — turning models into things that actually solve a problem, not just notebooks that run once.
+Exploring practical applications of Artificial Intelligence, with an emphasis on turning models into solutions that move beyond prototypes and deliver meaningful impact.
 
 ### 🌱 What I'm learning right now
-Generative AI and applied NLP, alongside sharpening my fundamentals in classical ML and data pipelines.
+Currently learning Machine Learning, Data Science, Workflow Automation, Natural Language Processing, and expanding into emerging AI approaches.
 
 ### 🤝 Open to
-Collaborating on open-source AI/ML/Data Science projects, and connecting with people who can help me grow my technical depth in return.
+Open to contributing to collaborative projects and connecting with peers who can support deeper technical growth through shared knowledge and experience.
 
 ---
 
@@ -39,6 +39,12 @@ Collaborating on open-source AI/ML/Data Science projects, and connecting with pe
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -104,11 +110,5 @@ Collaborating on open-source AI/ML/Data Science projects, and connecting with pe
 
 ---
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/ms8773964%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ms8773964@gmail.com)
-[![All Projects](https://img.shields.io/badge/All%20Projects-View%20on%20GitHub-a371f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Shahzeb121-oss)
-
-</div>
 
 </div>
