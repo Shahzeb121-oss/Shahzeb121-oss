@@ -1,5 +1,10 @@
-<div align="center">
+<div align="left">
 
+<div align="center">
+<h3 align="center">
+Exploring Machine Learning, Data Science, and NLP to create practical, impactful solutions
+</h3>
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8250df,100:58a6ff&height=180&section=header&animation=fadeIn&fontAlignY=0" />
 
 <picture>
@@ -7,13 +12,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Muhammad+Shahzaib;BS+AI+Student;ML+%7C+NLP+%7C+Data+Science;Building+real-world+AI+projects&font=Fira+Code&center=true&width=500&height=50&color=0969DA&vCenter=true&size=24" alt="Typing animation">
 </picture>
 
-### Exploring Machine Learning, Data Science, and NLP to create practical, impactful solutions
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-shahzaib-96470b3a1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shahzeb121-oss)
+[![Gmail](https://img.shields.io/badge/Gmail-ms8773964%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms8773964@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-shahzaib-96470b3a1/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/shazi123)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://www.leetcode.com/muhammad_shahzaib_awan)
-[![Gmail](https://img.shields.io/badge/Email-ms8773964%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ms8773964@gmail.com)
 </div>
+  
+</p>
 
 ---
 
@@ -30,7 +35,7 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 ### 🛠️ Core Stack
 
-**Programming Languages**
+**Programming Languages:**
 
 <div align="center">
 
@@ -39,10 +44,12 @@ Open to contributing to collaborative projects and connecting with peers who can
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </div>
 
-**Frameworks & Libraries**
+**Frameworks & Libraries:**
 
 <div align="center">
 
@@ -57,12 +64,15 @@ Open to contributing to collaborative projects and connecting with peers who can
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
-**Tools**
+**Tools:**
 
 <div align="center">
 
@@ -71,6 +81,10 @@ Open to contributing to collaborative projects and connecting with peers who can
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -105,19 +119,12 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shahzeb121-oss&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9&ring_color=a371f7">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzeb121-oss&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=8250df&icon_color=0969da&text_color=24292f&ring_color=8250df" alt="GitHub Stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb121-oss&hide_border=true&background=0D1117&ring=A371F7&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb121-oss&hide_border=true&background=FFFFFF&ring=8250DF&fire=CF222E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="GitHub Streak">
-</picture>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahzeb121-oss&theme=github_dark" alt="GitHub Stats Summary" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb121-oss&layout=compact&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb121-oss&layout=compact&hide_border=true&bg_color=ffffff&title_color=8250df&text_color=24292f" alt="Top Languages">
-</picture>
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahzeb121-oss&theme=github_dark" alt="Repos per Language" width="48%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahzeb121-oss&theme=github_dark" alt="Most Commit Language" width="48%">
 
 <br/>
 
@@ -140,6 +147,9 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 </div>
 
----
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:8250df,100:0d1117&height=120&section=footer" />
+<div align="center">
+
+> *"Every commit is a step toward building intelligent solutions."* 
+
+</div>
