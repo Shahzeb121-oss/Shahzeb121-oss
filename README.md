@@ -13,7 +13,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/shazi123)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://www.leetcode.com/muhammad_shahzaib_awan)
 [![Gmail](https://img.shields.io/badge/Email-ms8773964%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ms8773964@gmail.com)
-
 </div>
 
 ---
@@ -31,22 +30,47 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 ### 🛠️ Core Stack
 
+**Programming Languages**
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java,mysql,git,opencv,tensorflow,pytorch,sklearn,vscode" alt="Tech Stack" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
+</div>
 
+**Frameworks & Libraries**
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+</div>
+
+**Tools**
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
@@ -75,7 +99,6 @@ Open to contributing to collaborative projects and connecting with peers who can
 - **[Spam Filter App](https://github.com/Shahzeb121-oss/spam-filter-app)** — Email spam & phishing detector combining a Naive Bayes + TF-IDF classifier with rule-based heuristics, served via a Flask API with a live triage dashboard.
 - **[First Aid AI](https://github.com/Shahzeb121-oss/first-aid-ai)** — AI-powered first aid assistant that gives quick emergency guidance and basic medical support information.
 
-
 ---
 
 <div align="center">
@@ -96,12 +119,6 @@ Open to contributing to collaborative projects and connecting with peers who can
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb121-oss&layout=compact&hide_border=true&bg_color=ffffff&title_color=8250df&text_color=24292f" alt="Top Languages">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shahzeb121-oss&theme=react-dark&hide_border=true&bg_color=0d1117&color=a371f7&line=a371f7&point=58a6ff">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzeb121-oss&theme=minimal&hide_border=true&bg_color=ffffff&color=8250df&line=8250df&point=0969da" alt="Activity Graph">
-</picture>
-
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shahzeb121-oss&label=PROFILE+VIEWS&color=a371f7&style=for-the-badge&abbreviated=true)
@@ -112,5 +129,17 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahzeb121-oss/shahzeb121-oss/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/shahzeb121-oss/shahzeb121-oss/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation">
+</picture>
 
 </div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:8250df,100:0d1117&height=120&section=footer" />
