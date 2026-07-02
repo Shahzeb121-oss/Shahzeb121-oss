@@ -6,7 +6,7 @@
 Exploring Machine Learning, Data Science, and NLP to create practical, impactful solutions
 </h3>
   
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120%" height="auto">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="auto" height="auto">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-shahzaib-96470b3a1/)
@@ -165,6 +165,6 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 <div align="center">
 
-> ## *"Every commit is a step toward building intelligent solutions."* 
+> ### *"Every commit is a step toward building intelligent solutions."* 
 
 </div>
