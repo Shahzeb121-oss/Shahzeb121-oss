@@ -165,6 +165,6 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 <div align="center">
 
-> # *"Every commit is a step toward building intelligent solutions."* 
+> ## *"Every commit is a step toward building intelligent solutions."* 
 
 </div>
