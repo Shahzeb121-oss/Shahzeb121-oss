@@ -1,16 +1,13 @@
 <div align="left">
 
 <div align="center">
+
 <h3 align="center">
 Exploring Machine Learning, Data Science, and NLP to create practical, impactful solutions
 </h3>
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8250df,100:58a6ff&height=180&section=header&animation=fadeIn&fontAlignY=0" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120%" height="auto">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Muhammad+Shahzaib;BS+AI+Student;ML+%7C+NLP+%7C+Data+Science;Building+real-world+AI+projects&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=24&theme=dark">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Muhammad+Shahzaib;BS+AI+Student;ML+%7C+NLP+%7C+Data+Science;Building+real-world+AI+projects&font=Fira+Code&center=true&width=500&height=50&color=0969DA&vCenter=true&size=24" alt="Typing animation">
-</picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-shahzaib-96470b3a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shahzeb121-oss)
@@ -115,6 +112,24 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 ---
 
+### 📜 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/b4b2a3e8-56c0-43c5-898a-530a082f5a93">
+<img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/linkedin_thumb_image.png" alt="Google Cybersecurity Professional Certificate" width="45%">
+</a>
+<a href="https://www.credly.com/badges/d6563e9d-e3d8-4cf0-b1d1-07f429c29198">
+<img src="https://images.credly.com/images/1a546b64-d2d1-480a-9144-410112eb8fa0/linkedin_thumb_blob" alt="Google IT Automation with Python Professional Certificate" width="45%">
+</a>
+
+</div>
+
+- **[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/b4b2a3e8-56c0-43c5-898a-530a082f5a93)** — Coursera / Google
+- **[Google IT Automation with Python Professional Certificate](https://www.credly.com/badges/d6563e9d-e3d8-4cf0-b1d1-07f429c29198)** — Coursera / Google
+
+---
+
 <div align="center">
 
 ### 📊 GitHub Stats
@@ -150,6 +165,6 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 <div align="center">
 
-> *"Every commit is a step toward building intelligent solutions."* 
+> # *"Every commit is a step toward building intelligent solutions."* 
 
 </div>
