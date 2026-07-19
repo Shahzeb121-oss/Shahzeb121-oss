@@ -129,12 +129,17 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 ### 📊 GitHub Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahzeb121-oss&theme=github_dark" alt="GitHub Stats Summary" width="100%">
+![Profile Details](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/profile-details?username=Shahzeb121-oss&theme=2077&animation=rgb)
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahzeb121-oss&theme=github_dark" alt="Repos per Language" width="48%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahzeb121-oss&theme=github_dark" alt="Most Commit Language" width="48%">
+![Top Languages by Repo](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/repos-per-language?username=Shahzeb121-oss&theme=2077&animation=rgb)
+![Top Languages by Commit](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/most-commit-language?username=Shahzeb121-oss&theme=2077&animation=rgb)
+
+<br/>
+
+![Stats](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/stats?username=Shahzeb121-oss&theme=2077&animation=rgb)
+![Productive Time](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/productive-time?username=Shahzeb121-oss&theme=2077&animation=rgb&utcOffset=0)
 
 <br/>
 
@@ -160,9 +165,6 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 <div align="center">
 
-<span style="font-size: 32px; font-weight: bold;">
-"Every commit is a step toward building intelligent solutions."
-</span>
+![Quote](https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=26&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=750&height=60&lines=%22Every+commit+is+a+step+toward+building+intelligent+solutions%22)
 
 </div>
-
