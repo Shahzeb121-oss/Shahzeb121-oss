@@ -1,6 +1,9 @@
+
 # Exploring Machine Learning, Data Science, and NLP to create practical, impactful solutions
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Shahzeb121-oss/Shahzeb121-oss/main/assets/profile_banner.svg" alt="Muhammad Shahzaib" width="100%">
 
 <h3>Exploring Machine Learning, Data Science, and NLP to create practical, impactful solutions</h3>
 
