@@ -1,10 +1,6 @@
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=7CFFA0&center=true&vCenter=true&width=850&height=50&lines=Exploring+Machine+Learning+%F0%9F%A4%96;Diving+into+Data+Science+%F0%9F%93%8A;Building+with+NLP+%F0%9F%A7%A0;Creating+with+Generative+AI+%E2%9C%A8;Turning+ideas+into+real+solutions+%F0%9F%9A%80">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=1F2328&center=true&vCenter=true&width=850&height=50&lines=Exploring+Machine+Learning+%F0%9F%A4%96;Diving+into+Data+Science+%F0%9F%93%8A;Building+with+NLP+%F0%9F%A7%A0;Creating+with+Generative+AI+%E2%9C%A8;Turning+ideas+into+real+solutions+%F0%9F%9A%80" alt="Typing SVG">
-</picture>
-
 <div align="center">
+
+
 
 <img src="https://raw.githubusercontent.com/Shahzeb121-oss/Shahzeb121-oss/main/assets/hacker_ai_banner.svg" alt="Muhammad Shahzaib" width="100%">
 
