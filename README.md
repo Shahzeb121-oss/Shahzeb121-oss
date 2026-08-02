@@ -1,3 +1,5 @@
+# Exploring Machine Learning, Data Science, and NLP to create practical, impactful solutions
+
 <div align="center">
 
 <h3>Exploring Machine Learning, Data Science, and NLP to create practical, impactful solutions</h3>
@@ -35,6 +37,7 @@ Open to contributing to collaborative projects and connecting with peers who can
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </div>
 
 **Frameworks & Libraries:**
@@ -76,25 +79,12 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 ### 📌 Featured Projects
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=FaceGuard-Pro&hide_border=false&border_color=a371f7&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=FaceGuard-Pro&hide_border=false&border_color=8250df&bg_color=ffffff&title_color=8250df&icon_color=0969da&text_color=24292f" alt="FaceGuard-Pro">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=spam-filter-app&hide_border=false&border_color=a371f7&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=spam-filter-app&hide_border=false&border_color=8250df&bg_color=ffffff&title_color=8250df&icon_color=0969da&text_color=24292f" alt="Spam Filter App">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=first-aid-ai&hide_border=false&border_color=a371f7&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahzeb121-oss&repo=first-aid-ai&hide_border=false&border_color=8250df&bg_color=ffffff&title_color=8250df&icon_color=0969da&text_color=24292f" alt="First Aid AI">
-</picture>
-
-</div>
+<!-- Replaced fragile <picture> blocks with text-only project cards to avoid broken image placeholders on mobile while keeping layout and formatting simple and responsive. -->
 
 - **[FaceGuard-Pro](https://github.com/Shahzeb121-oss/FaceGuard-Pro)** — Real-time CNN-based face detection using OpenCV DNN (ResNet-10 SSD), supporting webcam, image, and video input, with a CustomTkinter desktop UI.
-- **[Spam Filter App](https://github.com/Shahzeb121-oss/spam-filter-app)** — Email spam & phishing detector combining a Naive Bayes + TF-IDF classifier with rule-based heuristics, served via a Flask API with a live triage dashboard.
+
+- **[Spam Filter App](https://github.com/Shahzeb121-oss/spam-filter-app)** — Email spam & phishing detector combining a Naive Bayes + TF-IDF classifier with rule-based heuristics, served via a Flask API and triage dashboard.
+
 - **[First Aid AI](https://github.com/Shahzeb121-oss/first-aid-ai)** — AI-powered first aid assistant that gives quick emergency guidance and basic medical support information.
 
 ---
@@ -151,7 +141,7 @@ Open to contributing to collaborative projects and connecting with peers who can
 |---|---|---|
 | AI Fluency Framework & Foundations | Anthropic | [Verify](https://verify.skilljar.com/c/9f4w2bqe7csi) — ID `9f4w2bqe7csi` |
 | Google AI | Coursera | [Verify](https://www.coursera.org/account/accomplishments/specialization/PKZCLA6OA0QD) — ID `PKZCLA6OA0QD` |
-| What Is Generative AI | LinkedIn Learning | [Verify](https://www.linkedin.com/learning/certificates/6053124f905ce9a3ae579f7e47b37efdc7507d39d4afa6fab9b6140c7115e759/) — ID `6053124f9...15e759` |
+| What Is Generative AI | LinkedIn Learning | [Verify](https://www.linkedin.com/learning/certificates/6053124f905ce9a3ae579f7e47b37efdc7507d39d4afa6fab9b6140c7115e759/) — ID `6053124f905ce9a3ae579f7e47b37efdc7507d39d4afa6fab9b6140c7115e759` |
 | Building AI Agents with Snowflake | GeeksforGeeks | [Verify](https://media.geeksforgeeks.org/courses/certificates/d8543e8a67a4d90346f2a2d1913e7235.pdf) |
 | AI-Powered Design with Google Stitch | DataCrumbs | *no public link* |
 | Mastering AI Email Agents Masterclass | DataCrumbs | *LinkedIn login required* |
@@ -170,9 +160,9 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub Stats
+
+<div align="center">
 
 ![Profile Details](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/profile-details?username=Shahzeb121-oss&theme=2077&animation=rgb)
 
@@ -184,7 +174,7 @@ Open to contributing to collaborative projects and connecting with peers who can
 <br/>
 
 ![Stats](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/stats?username=Shahzeb121-oss&theme=2077&animation=rgb)
-![Productive Time](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/productive-time?username=Shahzeb121-oss&theme=2077&animation=rgb&utcOffset=0)
+![Productive Time](https://github-profile-summary-cards-ten-rho.ver.app/api/cards/productive-time?username=Shahzeb121-oss&theme=2077&animation=rgb&utcOffset=0)
 
 <br/>
 
@@ -194,23 +184,14 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution & Activity
+
+View my contribution graph and recent activity on my GitHub profile: https://github.com/Shahzeb121-oss
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahzeb121-oss/shahzeb121-oss/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/shahzeb121-oss/shahzeb121-oss/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation">
-</picture>
-
-</div>
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=26&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=750&height=60&lines=%22Every+commit+is+a+step+toward+building+intelligent+solutions.%22">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=26&duration=4000&pause=2000&color=1F2328&center=true&vCenter=true&width=750&height=60&lines=%22Every+commit+is+a+step+toward+building+intelligent+solutions.%22" alt="Every commit is a step toward building intelligent solutions.">
-</picture>
+<p>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=26&duration=4000&pause=2000&color=1F2328&center=true&vCenter=true&width=750&height=60&lines=%22Every+commit+is+a+step+towards+learning%22)
+</p>
 
 </div>
