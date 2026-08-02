@@ -174,7 +174,7 @@ Open to contributing to collaborative projects and connecting with peers who can
 <br/>
 
 ![Stats](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/stats?username=Shahzeb121-oss&theme=2077&animation=rgb)
-![Productive Time](https://github-profile-summary-cards-ten-rho.ver.app/api/cards/productive-time?username=Shahzeb121-oss&theme=2077&animation=rgb&utcOffset=0)
+![Productive Time](https://github-profile-summary-cards-ten-rho.vercel.app/api/cards/productive-time?username=Shahzeb121-oss&theme=2077&animation=rgb&utcOffset=0)
 
 <br/>
 
@@ -191,11 +191,9 @@ Open to contributing to collaborative projects and connecting with peers who can
   <img src="https://raw.githubusercontent.com/Shahzeb121-oss/Shahzeb121-oss/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation">
 </picture>
 
-
 <div align="center">
 
-<p>
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=26&duration=4000&pause=2000&color=1F2328&center=true&vCenter=true&width=750&height=60&lines=%22Every+commit+is+a+step+towards+learning%22)
-</p>
+
+![Every commit is a step towards learning](https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=26&duration=4000&pause=2000&color=1F2328&center=true&vCenter=true&width=750&height=60&lines=Every+commit+is+a+step+towards+learning)
 
 </div>
