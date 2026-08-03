@@ -195,7 +195,7 @@ Open to contributing to collaborative projects and connecting with peers who can
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=26&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=750&height=60&lines=Every+commit+is+a+step+towards+learning">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=26&duration=4000&pause=2000&color=1F2328&center=true&vCenter=true&width=750&height=60&lines=Every+commit+is+a+step+towards+learning" alt="Every commit is a step toward learning something new">
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=26&duration=4000&pause=2000&color=1F2328&center=true&vCenter=true&width=750&height=60&lines=Every+commit+is+a+step+towards+learning+something+new" alt="Every commit is a step toward learning something new">
 </picture>
 
 </div>
